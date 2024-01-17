@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+	<main text="Internals">
+		<sub text="Internal feeder numbering GRN" conv="XXXX_Internal_feeder_GRN" taken="Yes"/>
+		<sub text="Internal feeder numbering Link" conv="XXXX_Internal_feeder_numbeing_Link" taken="Yes"/>
+		<sub text="Internal feeder numbering XPOL" conv="XXXX_Internal_feeder_Numbering_XPOL" taken="Yes"/>
+		<sub text="Lightning Surge Arrestor" conv="XXXX_LSA_XPOL" taken="Yes"/>
+		<sub text="Lightning Surge Arrestor" conv="XXXX_LSA_XPOL_P25" taken="Yes"/>
+		<sub text="Feeder Window Entry Internal" conv="XXXX_Feeder_window_Entry_Internal" taken="Yes"/>
+		<sub text="Feeder Opening Point" conv="XXXX_Feeder_opening_point_XPOL" taken="Yes"/>
+		<sub text="Feeder Opening Point" conv="XXXX_Feeder_opening_point_P25" taken="Yes"/>
+	</main>
+	<main text="External GRN">
+		<sub text="RF signage at base of structure" conv="XXXX_EME #4#6" taken="Yes"/>
+		<sub text="Antenna RF Signage" conv="XXXX_EME #2" taken="Yes"/>
+		<sub text="MCF Telco Facility #13 Sign" conv="XXXX_MCF #13" taken="Yes"/>
+		<sub text="Site Access Restriction Signage" conv="XXXX_Site Access Restriction" taken="N/A"/>
+		<sub text="GRN Antenna overall" conv="XXXX_GRNAntenna" taken="Yes"/>
+		<sub text="Antenna View East" conv="XXXX_GRNAntennaView_East" taken="Yes"/>
+		<sub text="Antenna View North" conv="XXXX_GRNAntennaView_West" taken="Yes"/>
+		<sub text="Antenna mount overall" conv="XXXX_GRNAntennaMount_Overall" taken="Yes"/>
+		<sub text="Antenna mount close up" conv="XXXX_GRNAntennaMount_Close_up" taken="Yes"/>
+		<sub text="Bird proofing at base of antenna" conv="XXXX_GRNBirdproofing" taken="Yes"/>
+		<sub text="Feeder Earthing" conv="XXXX_GRNFeeder_Earthing" taken="Yes"/>
+		<sub text="Feeder labelling" conv="XXXX_GRNFeederLabelling" taken="Yes"/>
+		<sub text="Feeder installation run" conv="XXXX_GRNFeeder_Run" taken="N/A"/>
+		<sub text="Feeder Gantry" conv="XXXX_GRNFeeder_Gantry" taken="Yes"/>
+		<sub text="Feeder Window entry external" conv="XXXX_GRNFeederWindow_Entry_external" taken="Yes"/>
+		<sub text="Structure Warning Light" conv="XXXX_GRN_Structure Warning Light" taken="N/A"/>
+	</main>
+	<main text="External 4G XPOL">
+		<sub text="Antenna overall" conv="XXXX_XPOLAntenna_overall" taken="Yes"/>
+		<sub text="Feeder installation run" conv="XXXX_XPOLFeeder_installation_run" taken="Yes"/>
+		<sub text="Feeder Window entry external" conv="XXXX_XPOLFeederWindow_Entry_external" taken="Yes"/>
+		<sub text="Feeder labelling" conv="XXXX_XPOLFeederLabelling" taken="Yes"/>
+		<sub text="Feeder Window Entry Internal" conv="XXXX_XPOLFeederWindow_Entry_Internal" taken="Yes"/>
+		<sub text="Feeder Internal Delivery Point" conv="XXXX_XPOL Feeder SDP" taken="Yes"/>
+	</main>
+	<main text="External Link">
+		<sub text="Link Antenna overall" conv="XXXX_LinkAntenna_Overall" taken="Yes"/>
+		<sub text="ODU's" conv="XXXX_Link ODUs" taken="Yes"/>
+		<sub text="Antenna Rayline" conv="XXXX_LinkAntenna_Rayline" taken="Yes"/>
+		<sub text="Antenna mount close up" conv="XXXX_LinkAntennaMount_Close_up" taken="Yes"/>
+		<sub text="Feeder Earthing" conv="XXXX_LinkFeeder_earthing" taken="Yes"/>
+		<sub text="Feeder labelling" conv="XXXX_LinkFeederLabeling" taken="Yes"/>
+		<sub text="Feeder installation run" conv="XXXX_LinkFeeder_Installation_Run" taken="Yes"/>
+		<sub text="Feeder Gantry" conv="XXXX_LinkFeeder_Gantry" taken="Yes"/>
+		<sub text="Feeder Window entry external" conv="XXXX_LinkFeederWindow_Entry_external" taken="Yes"/>
+		<sub text="Antenna Serial Numbers" conv="XXXX_LinkFeeder_Antenna_SN" taken="N/A"/>
+	</main>
+	<main text="GRN Rack - Front and Back views where applicable">
+		<sub text="Rack Full View" conv="XXXX_GRNRack 01_Fullview" taken="Yes"/>
+		<sub text="Rack Top" conv="XXXX_GRNRack_Top" taken="Yes"/>
+		<sub text="Rack Middle" conv="XXXX_GRNRack_Middle" taken="Yes"/>
+		<sub text="Rack Bottom" conv="XXXX_GRNRack_Bottom" taken="Yes"/>
+		<sub text="Cavity Filters (Rx Mux,Preselectors,Tx Filters, Notch Filters)" conv="XXXX_GRNCavityFilters" taken="N/A"/>
+		<sub text="Rack Labelling" conv="XXXX_GRNRack_Labels" taken="Yes"/>
+		<sub text="ACMA Labels" conv="XXXX_GRNACMA_Labels" taken="Yes"/>
+	</main>
+	<main text="TX Rack - Front and Back views where applicable">
+		<sub text="Rack Full View" conv="XXXX_TxRack_Fullview" taken="Yes"/>
+		<sub text="Rack Top" conv="XXXX_TxRack_Top" taken="Yes"/>
+		<sub text="Rack Middle" conv="XXXX_TxRack_Middle" taken="Yes"/>
+		<sub text="Rack Bottom" conv="XXXX_TxRack_Bottom" taken="Yes"/>
+		<sub text="Rack Labelling" conv="XXXX_TxRack_Labels" taken="Yes"/>
+		<sub text="Rack Earthing" conv="XXXX_TxRack Earthing" taken="Yes"/>
+		<sub text="APDP existing or New" conv="XXXX_TxAPDP" taken="Yes"/>
+		<sub text="RMX 4000 sub rack label" conv="XXXX_RMX 4000" taken="Yes"/>
+		<sub text="RMX 4000 sub rack label" conv="XXXX_RMX 4000_label" taken="Yes"/>
+	</main>
+	<main text="Power System - Front and Back views where applicable">
+		<sub text="Overall Power rack" conv="XXXX_PS_Rack" taken="Yes"/>
+		<sub text="Overall EBE Door Closed" conv="XXXX_PS_ODU" taken="N/A"/>
+		<sub text="Batteries ( readable labels )" conv="XXXX_PS_Batteries" taken="Yes"/>
+		<sub text="Rectifiers ( readable labels)" conv="XXXX_PS_Rectifiers" taken="Yes"/>
+		<sub text="Power distribution ( readable labels circuit breaker )" conv="XXXX_PS_PD" taken="Yes"/>
+		<sub text="DC convertors ( readable labels)" conv="XXXX_PS_DC_Convertor" taken="N/A"/>
+		<sub text="Battery Books filled in" conv="XXXX_PS_BatteryBooks" taken="Yes"/>
+		<sub text="DC power terminations" conv="XXXX_PS_DC cabling" taken="Yes"/>
+	</main>
+	<main text="Surveillance Cameras">
+		<sub text="Camera Installed" conv="XXXX_Camera location" taken="Yes"/>
+		<sub text="Camera Signage" conv="XXXX_Camera signage" taken="Yes"/>
+		<sub text="Camera POV" conv="XXXX_Camera POV" taken="Yes"/>
+	</main>
+	<main text="Civil works - Refer to 018194 Civil Construction Manual">
+		<sub text="New Shelter" conv="XXXX_New_Shelter" taken="N/A"/>
+		<sub text="Earthing installation - Earth Stakes" conv="XXXX_Shelter_Earthing_Stakes" taken="N/A"/>
+		<sub text="Site clearing before/after" conv="XXXX_Shelter_EarthWorks" taken="N/A"/>
+		<sub text="Shelter foundation" conv="XXXX_Shelter_Foundations" taken="N/A"/>
+		<sub text="Shelter site name plate" conv="XXXX_Shelter_Label" taken="N/A"/>
+		<sub text="RF signage" conv="XXXX_Shelter_RF_Signage" taken="N/A"/>
+		<sub text="Shelter door lock" conv="XXXX_Shelter_Lock" taken="N/A"/>
+		<sub text="Trenching Depth" conv="XXXX_Trenching depth" taken="N/A"/>
+		<sub text="Trenching Backfill Compaction" conv="XXXX_Trenching backfill" taken="N/A"/>
+		<sub text="Trenching Service Warning Tape" conv="XXXX_Trenching warning tape" taken="N/A"/>
+	</main>
+	<main text="AC Power">
+		<sub text="Site Main Switchboard" conv="XXXX_MSB" taken="Yes"/>
+		<sub text="Site Main Switchboard - Internal" conv="XXXX_MSB internal" taken="Yes"/>
+		<sub text="Telstra Meter" conv="XXXX_Site Meter" taken="N/A"/>
+	</main>
+	<main text="Generator">
+		<sub text="Generator installation all sides" conv="XXXX_Generator_Install" taken="N/A"/>
+		<sub text="Site clearing before/after" conv="XXXX_Generator_EarthWorks" taken="N/A"/>
+		<sub text="Generator Foundation" conv="XXXX_Generator_Foundations" taken="N/A"/>
+		<sub text="Generator ATS Open" conv="XXXX_Generator ATS Open" taken="N/A"/>
+		<sub text="Generator ATS with padlock" conv="XXXX_Generator ATS Closed" taken="N/A"/>
+	</main>
+	<main text="Solar">
+		<sub text="Installation" conv="XXXX_Solar_Install" taken="N/A"/>
+		<sub text="Cabinets" conv="XXXX_Solar_ODU" taken="N/A"/>
+		<sub text="Site clearing before/after" conv="XXXX_Solar_EarthWorks" taken="N/A"/>
+		<sub text="Serial Numbers" conv="XXXX_Solar_SerialNumbers" taken="N/A"/>
+		<sub text="Battery Books filled in" conv="XXXX_Solar_BatteryBooks" taken="N/A"/>
+		<sub text="Batteries" conv="XXXX_Solar_Batteries" taken="N/A"/>
+	</main>
+	<main text="Greenfields">
+		<sub text="Foundation photos " conv="XXXX_Structure_Foundations" taken="N/A"/>
+		<sub text="Grillage footing open excavations" conv="XXXX_Shelter _excavations" taken="N/A"/>
+		<sub text="New Structure" conv="XXXX_New_Structure" taken="N/A"/>
+		<sub text="Antenna Arrangement" conv="XXXX_Antenna_arrangement" taken="N/A"/>
+		<sub text="Close up photos of antenna mounting arrangements" conv="XXXX_Antenna_CloseUp" taken="N/A"/>
+		<sub text="Ground level depicting general arrangement" conv="XXXX_Site Ground Level" taken="N/A"/>
+		<sub text="Structure ID Plate" conv="XXXX_Structure ID Plate" taken="N/A"/>
+		<sub text="Earthing installation - Earth Stakes" conv="XXXX_Structure_Earthing" taken="N/A"/>
+		<sub text="Site clearing before/after" conv="XXXX_Greenfields_EarthWorks" taken="N/A"/>
+	</main>
+
+</Root>
